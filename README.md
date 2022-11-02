@@ -1,6 +1,4 @@
-# horiseon-code-refactor
-
-# <Horiseon-Refractor>
+# Horiseon-Refractor
 
 ## Description
 
@@ -8,15 +6,12 @@ The motivation and purpose behind this was to create a more accessible site for 
 
 ## Usage
 
-![screenshot of the horiseon site](./assets/images/homework-demo.png)
+![screenshot of the horiseon site](./assets/images/mdickerson-horiseon-screenshot.png)
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+[W3School](https://www.w3schools.com/) was used for the HTML semantic elements.
 
 ## License
 
+MIT License- A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
